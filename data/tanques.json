@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Tanque 1 - Gasolina Comum",
+        "tipo_combustivel": "Gasolina Comum",
+        "capacidade_litros": 15000,
+        "nivel_atual_litros": 8750
+    },
+    {
+        "id": 2,
+        "nome": "Tanque 2 - Gasolina Aditivada",
+        "tipo_combustivel": "Gasolina Aditivada",
+        "capacidade_litros": 10000,
+        "nivel_atual_litros": 5200
+    },
+    {
+        "id": 3,
+        "nome": "Tanque 3 - Diesel S10",
+        "tipo_combustivel": "Diesel S10",
+        "capacidade_litros": 20000,
+        "nivel_atual_litros": 12300
+    }
+]

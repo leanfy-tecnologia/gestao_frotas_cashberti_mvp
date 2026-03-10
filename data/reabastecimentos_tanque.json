@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "tanque_id": 1,
+        "data_hora": "2026-02-26 17:18:57",
+        "litros_adicionados": 8816.0,
+        "fornecedor": "Vibra Energia"
+    },
+    {
+        "id": 2,
+        "tanque_id": 1,
+        "data_hora": "2026-03-01 17:16:57",
+        "litros_adicionados": 4608.0,
+        "fornecedor": "Petrobras"
+    },
+    {
+        "id": 3,
+        "tanque_id": 1,
+        "data_hora": "2026-01-27 14:04:57",
+        "litros_adicionados": 5195.0,
+        "fornecedor": "Ipiranga"
+    },
+    {
+        "id": 4,
+        "tanque_id": 2,
+        "data_hora": "2026-02-10 07:57:57",
+        "litros_adicionados": 5644.0,
+        "fornecedor": "Vibra Energia"
+    },
+    {
+        "id": 5,
+        "tanque_id": 2,
+        "data_hora": "2026-02-16 11:18:57",
+        "litros_adicionados": 3432.0,
+        "fornecedor": "Ipiranga"
+    },
+    {
+        "id": 6,
+        "tanque_id": 2,
+        "data_hora": "2026-02-17 09:11:57",
+        "litros_adicionados": 4650.0,
+        "fornecedor": "Vibra Energia"
+    },
+    {
+        "id": 7,
+        "tanque_id": 3,
+        "data_hora": "2026-02-27 09:52:57",
+        "litros_adicionados": 6022.0,
+        "fornecedor": "Ipiranga"
+    },
+    {
+        "id": 8,
+        "tanque_id": 3,
+        "data_hora": "2026-01-16 07:59:57",
+        "litros_adicionados": 6059.0,
+        "fornecedor": "Petrobras"
+    },
+    {
+        "id": 9,
+        "tanque_id": 3,
+        "data_hora": "2026-02-18 09:41:57",
+        "litros_adicionados": 6309.0,
+        "fornecedor": "Petrobras"
+    },
+    {
+        "id": 10,
+        "tanque_id": 3,
+        "data_hora": "2026-03-03 18:12:57",
+        "litros_adicionados": 6057.0,
+        "fornecedor": "Vibra Energia"
+    }
+]
