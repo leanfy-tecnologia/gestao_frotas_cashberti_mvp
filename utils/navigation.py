@@ -221,7 +221,7 @@ def header_menu():
     img_tag = f'<img src="data:image/png;base64,{logo_base64}" style="height:80px; margin-right: 12px; vertical-align: middle;">' if logo_base64 else ''
 
     # Renderizar Menu de Navegação na mesma linha
-    c_logo, c1, c2, c3 = st.columns([4.5, 1.5, 1.5, 1.5], vertical_alignment="center")
+    c_logo, c1, c2, c3, c4 = st.columns([3.5, 1.6, 1.6, 1.6, 1.7], vertical_alignment="center")
     
     with c_logo:
         st.markdown(f'<div class="header-logo-inline">{img_tag}<span class="highlight"></span> CashBerti - Gestão de Frotas</div>', unsafe_allow_html=True)
@@ -234,5 +234,8 @@ def header_menu():
         
     with c3:
         st.page_link("pages/4_Historico.py", label="Histórico")
+
+    with c4:
+        st.page_link("pages/5_📍_Mapa_de_Calor.py", label="Mapa de Calor")
         
     st.markdown("<hr style='margin-top: 5px; margin-bottom: 20px; border-color: rgba(255,255,255,0.06);'>", unsafe_allow_html=True)
